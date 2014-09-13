@@ -8,7 +8,7 @@
  * License: MIT
  */
 (function() {
-  "use strict"
+  "use strict";
 
   /* Only enable if Ember Data is included */
   if (window.DS === undefined) {
